@@ -35,7 +35,7 @@ While the images are downloading, the photo album is in a temporary “downloadi
  
  ## Requirements to run this app
 
-**To run this app you need to [Virtual-Tourist](https://github.com/Abdu11a/WeaterMap/archive/master.zip).**
+**To run this app you need to [Virtual-Tourist](https://github.com/Abdu11a/Virtual-Tourist-/raw/master/Virtual%20Tourist.zip).**
 
 ### Versions:
 
