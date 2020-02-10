@@ -33,5 +33,13 @@ While the images are downloading, the photo album is in a temporary “downloadi
 #### Alert Action, when some Network connection issues happen .
  <img src="https://github.com/Abdu11a/Virtual-Tourist-/blob/master/Virtual%20Tourist/Virtual%20Tourist%20PHOTO/photo-3.png" width=400>
  
- 
+ ## Requirements to run this app
+
+**To run this app you need to [Virtual-Tourist](https://github.com/Abdu11a/WeaterMap/archive/master.zip).**
+
+### Versions:
+
+- [![Xcode Version](https://img.shields.io/badge/Xcode-10+-success.svg)](https://swift.org) 
+- [![Swift Version](https://img.shields.io/badge/Swift-4+-success.svg)](https://swift.org)
+- [![Platform](https://img.shields.io/cocoapods/p/LFAlertController.svg?style=flat)](https://swift.org)
  
